@@ -39,7 +39,7 @@ Charity-Website/
 │ └── style.css (optional - only for color/heading tweaks)
 
 📸 Preview
-
+https://charity-donationngo.netlify.app/
 
 ✍️ Author
 Payal Sawant
